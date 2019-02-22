@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SensorList</string>
+    <string name="flashlight_on">Secouer pour allumer la lampe torche</string>
+    <string name="flashlight_off">Secouer pour éteindre la lampe torche</string>
+</resources>
